@@ -1,6 +1,8 @@
 body{
     background-image: url(fw.jpg);
     background-color: #243CED;
+    background-attachment: fixed;
+    background-position: 10% 30%;
     background-repeat: no-repeat;
     color: yellow;
 }
