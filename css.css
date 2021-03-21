@@ -13,3 +13,7 @@ h1{
 h2{
     color:rgb(255,0,0);
 }
+p#sn, p#so, p#si
+{
+    font-family: Verdana, sans-serif;
+}
