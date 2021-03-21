@@ -35,14 +35,14 @@ a:hover{
     text-decoration:underline;
 }
 p{
-    text-indent:1.2em;
+    line-height:200%;
 }
 p#sc{
     text-transform: capitalize;
 }
 p#su{
-    text-transform: uppercase;
+    word-spacing: 10px;
 }
 p#sl{
-    text-transform: lowercase;
+    letter-spacing: 5px;
 }
