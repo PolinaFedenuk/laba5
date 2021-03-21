@@ -1,48 +1,28 @@
 body{
-    background-image: url(fw.jpg);
-    background-color: black;
-    background-position:center top;
-    background-repeat: no-repeat;
-    color: yellow;
+    background: #0033CC;
+    color: #FFFFFF;
+    font: 12px Verdana, sans-serif;
 }
 
 h1{
-    color: #FF0000;
+    font-size: 1.6em;
+    color: #FFCC00;
+    letter-spacing: 5px;
+    text-align: center;
 }
 
 h2{
-    color:rgb(255,0,0);
-}
-p#sn, p#so, p#si
-{
-    font: italic 12px Verdana, sans-serif;
-}
-
-p#so
-{
-    font-size: 1.2em;
-}
-p#si
-{
-    font-style: normal;
+    font-size: 1.3em;
+    color: #FFCC00;
+    text-decoration: underline;
+    text-align: center;
 }
 
-a{
-    text-decoration:none;
-    text-align:center;
-}
-a:hover{
-    text-decoration:underline;
-}
-p{
-    line-height:200%;
-}
-p#sc{
-    text-transform: capitalize;
+p:first-letter{
+    color: #FFCC00;
 }
 p#su{
-    word-spacing: 10px;
-}
-p#sl{
-    letter-spacing: 5px;
+    text-indent:1.5em;
+    word-spacing:10px;
+    font-style:italic;
 }
