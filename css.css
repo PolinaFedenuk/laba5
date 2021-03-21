@@ -1,6 +1,7 @@
 body{
     background-image: url(fw.jpg);
     background-color: #243CED;
+    background-repeat: repeat-x;
     color: yellow;
 }
 
